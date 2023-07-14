@@ -1,0 +1,26 @@
+.course-container {
+  margin: 55px;
+  display: flex;
+  align-items: flex-start;
+  align-self: center;
+}
+
+.course-details {
+  padding: 25px;
+  margin-left: 20px;
+  width: 40%;
+  box-shadow: #64748b;
+}
+
+.heading {
+  font-size: 35px;
+  font-weight: 800;
+  font-family: 'Roboto';
+}
+
+.description {
+  font-size: 23px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  color: #64748b;
+}

@@ -1,0 +1,43 @@
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.skills-container {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  flex-grow: 1;
+  flex-wrap: wrap;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  border: none;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  cursor: pointer;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.name {
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.image {
+  height: 50px;
+}
+
+.main-heading {
+  margin-left: 35px;
+  margin-bottom: 0px;
+}
